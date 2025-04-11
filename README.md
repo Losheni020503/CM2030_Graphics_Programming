@@ -84,9 +84,9 @@ Integrate ImGui for better interface controls
 VR/AR compatibility via OpenXR
 
 ## 👤 Author
-Losheni Meenakshi Sundaram
-Student at University of London , Singapore Institute of Management
-📫 Email: losheni.ms@gmail.com
+- Losheni Meenakshi Sundaram
+- Student at University of London , Singapore Institute of Management
+- 📫 Email: losheni.ms@gmail.com
 
 ## 📄 License
 This project is for academic and learning purposes only. Open to personal experimentation and modification.
