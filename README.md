@@ -41,16 +41,6 @@ This project is an **interactive 3D rendering tool** developed using **OpenGL**.
 
 ---
 
-## 📁 Project Structure
-
-3DRenderer/ ├── shaders/ # Vertex and fragment shader files ├── textures/ # Image textures ├── models/ # 3D object files (.obj) ├── src/ │ ├── main.cpp # Main OpenGL application │ ├── renderer.cpp # Render pipeline & object control │ └── camera.cpp # Camera control logic ├── README.md └── Makefile or CMakeLists.txt
-
-yaml
-Copy
-Edit
-
----
-
 ## 🧪 How to Run
 
 ### 🖥️ Requirements
